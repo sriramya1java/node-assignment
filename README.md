@@ -1,4 +1,4 @@
-# FileUploads
+# NodeJs Example
 
 An example of how to upload images locally with Node.js and Multer.
 
